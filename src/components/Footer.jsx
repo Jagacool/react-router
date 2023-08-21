@@ -8,7 +8,7 @@ function Footer() {
       <div>
         <div className="footer">
           <p>
-          Copyrights - Ashwin guvi task  {new Date().getFullYear()}
+          Copyrights - jaga {new Date().getFullYear()}
           </p>
           <Link to="#" target="_blank">
         
